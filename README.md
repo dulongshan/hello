@@ -1,2 +1,2 @@
--[ ] First
--[ ] Second
+- [x] First
+- [ ] Second
